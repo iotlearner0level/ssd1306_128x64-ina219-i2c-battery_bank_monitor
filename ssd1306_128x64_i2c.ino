@@ -20,7 +20,7 @@ long servermillis=millis();
 long prevMillis=millis();
 
 unsigned long myChannelNumber = 31461;
-const char * myWriteAPIKey = "0UBSKCVQ8RJU73QX";
+const char * myWriteAPIKey = "";
 
 
 const char* ssid = "******";
